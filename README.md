@@ -6,5 +6,5 @@
 
 ## 联系方式：
 - QQ:3174788113
-- email:z@233.pub
+- email:z@l0.ink
 - [Telegram](https://t.me/zerowolf233)(不经常上线)
