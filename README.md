@@ -8,3 +8,6 @@
 - QQ:3174788113
 - email:z@l0.ink
 - [Telegram](https://t.me/zerowolf233)(不经常上线)
+
+## 赞助
+- https://afdian.com/a/ZeroWolf233
