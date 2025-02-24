@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroWolf233)
 
-[![ZeroWolf's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZeroWolf)](https://github.com/ZeroWolf233)
+[![ZeroWolf's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZeroWolf&v=2)](https://github.com/ZeroWolf233)
 
 ## 联系方式：
 - email:z@ski.ink
