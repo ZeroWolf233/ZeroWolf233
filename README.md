@@ -10,5 +10,8 @@
 - email:z@ski.ink
 - [Telegram](https://t.me/zerowolf233)
 
+## 我的GPG Key：
+`Key ID = 5C55555555555555`
+
 ## 赞助
 - https://afdian.com/a/ZeroWolf233
