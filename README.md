@@ -16,5 +16,5 @@
 - [QQ](https://qm.qq.com/q/OlLwCsY62e)
 
 ## GPG Key：
-[5C55555555555555](https://file.zerowolf.cn/gpg)
+[C05F 8888 8888 8888](https://github.com/ZeroWolf233.gpg)
 
