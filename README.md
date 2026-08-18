@@ -1,14 +1,9 @@
 # Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroWolf233)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroWolf233)
-
-![ZeroWolf's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZeroWolf&v=2)
+心系中华🇨🇳 AS210352 | UTC+8 | zh en wuu | Welcome PM | No Hello
 
 ## Websites
 [零狼の小窝](https://zerowolf.cn)
-[零狼的状态监控](https://status.zerowolf.cn)
 
 ## Contact
 - email:z@ski.ink
@@ -17,4 +12,3 @@
 
 ## GPG Key：
 [5C55 5555 5555 5555](https://github.com/ZeroWolf233.gpg)
-
